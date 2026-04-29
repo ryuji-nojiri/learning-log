@@ -1,0 +1,19 @@
+# やってみたこと
+・github アカウント開設、リポジトリ作成
+・next.js 新規プロジェクト作成
+・vercel アカウント開設、デプロイ
+　成果物：https://next-hello-world-alpha.vercel.app/
+
+# 学んだこと
+・今まで社内で gitlab しか触ってこなかったが、github の開設ができたことによりオープンソースコミュニティの一員になれた気がした。
+・next.js のプロジェクト生成方法
+　→next.js の詳細については後程。。。
+・next.js と vercel の親和性の高さ
+
+# 参考サイト
+Githubリポジトリ作成〜コミットまでのまとめ
+https://qiita.com/acu8/items/c15d37196a330289c8e4
+Git の使い方 ～リポジトリの作成とコミット～
+https://proengineer.internous.co.jp/content/columnfeature/6944
+Next.js の Hello World から Vercel へのデプロイまで
+https://yuheijotaki.com/blog/2022091601/
