@@ -1,0 +1,3 @@
+# 今日実施したこと
+Github Copilot を使うに向けて、事前勉強
+https://qiita.com/Nozomuts/items/430261fa996cba5fd466
