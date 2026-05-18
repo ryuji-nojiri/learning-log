@@ -1,0 +1,3 @@
+# 今日実施したこと
+- 仕事にて、spring boot を知る機会があったため、基本を確認してみた。
+https://qiita.com/ist-a-ku/items/1d278619f241f4800bb2
