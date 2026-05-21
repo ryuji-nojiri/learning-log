@@ -1,0 +1,4 @@
+# 今日実施したこと
+- 仕事で spring aop について触れる機会があったため、改めて記事を読んでみた。
+　→アノテーションで挿入位置の指定が可能。
+https://qiita.com/ughirose/items/a7c66782f93cd1ae0d68
