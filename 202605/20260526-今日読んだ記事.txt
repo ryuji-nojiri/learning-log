@@ -1,0 +1,3 @@
+# 今日実施したこと
+- ESLint に代わる次世代のリンターである Oxlint について調べた。
+https://www.issoh.co.jp/tech/details/9737/
