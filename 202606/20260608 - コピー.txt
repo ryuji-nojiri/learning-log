@@ -1,9 +1,0 @@
-https://qiita.com/despocampi1/items/91122a6add6507fa1517
-
-skills ディレクトリ例
-pdf-skill/
-├── SKILL.md (main instructions)
-├── FORMS.md (form-filling guide)
-├── REFERENCE.md (detailed API reference)
-└── scripts/
-    └── fill_form.py (utility script)
